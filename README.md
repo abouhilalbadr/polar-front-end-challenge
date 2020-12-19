@@ -250,7 +250,7 @@ Please try to document your code as much as possible.
 ## Setup
 
 ```
-git clone https://github.com/abouhilalbadr/front-end-challenge.git
+git clone https://github.com/abouhilalbadr/polar-front-end-challenge.git
 
 cd front-end-challenge
 
