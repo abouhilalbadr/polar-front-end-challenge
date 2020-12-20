@@ -252,7 +252,7 @@ Please try to document your code as much as possible.
 ```
 git clone https://github.com/abouhilalbadr/polar-front-end-challenge.git
 
-cd front-end-challenge
+cd polar-front-end-challenge
 
 yarn serve
 ```
